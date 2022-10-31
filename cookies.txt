@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.stacylelfitness.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1667038062|8Ow0lDT7XUau
+www.stacylelfitness.com	TRUE	/	FALSE	1999999999	fedops.logger.defaultOverrides	%7B%22paramsOverridesForApp%22%3A%7B%22music-manager-my-albums%22%3A%7B%22is_rollout%22%3Atrue%7D%7D%7D
+www.stacylelfitness.com	TRUE	/	FALSE	1999999999	hs	-425748521
+www.stacylelfitness.com	TRUE	/	FALSE	1999999999	svSession	06c8423370223608c42004b9c5806fdc628240c7a9221a8e0f0035466743e8f3d47295cb471f1ecde6f4aa663fffc1b01e60994d53964e647acf431e4f798bcdb035d757009633e9047abecd1b1a6c461306869b0af577e66d408c77c3b86007f6367c530978361715c9b7c18a07cbcfdc9c1812a259a375e5a1a22bf211a41d56bfef9ee830d3813f9582bd63452111
+www.stacylelfitness.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.stacylelfitness.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=as1
+
